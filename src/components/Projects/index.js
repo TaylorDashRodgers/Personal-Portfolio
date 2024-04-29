@@ -124,16 +124,16 @@ const Projects = () => {
                     <ToggleButton onClick={() => setToggle("web app")}>WEB APP'S</ToggleButton>
                 )}
                 <Divider />
-                {toggle === "android app" ? (
-                    <ToggleButton active onClick={() => setToggle("android app")}>ANDROID APP'S</ToggleButton>
+                {toggle === "games" ? (
+                    <ToggleButton active onClick={() => setToggle("games")}>GAMES</ToggleButton>
                 ) : (
-                    <ToggleButton onClick={() => setToggle("android app")}>ANDROID APP'S</ToggleButton>
+                    <ToggleButton onClick={() => setToggle("games")}>GAMES</ToggleButton>
                 )}
                 <Divider />
-                {toggle === "machine learning" ? (
-                    <ToggleButton active onClick={() => setToggle("machine learning")}>MACHINE LEARNING</ToggleButton>
+                {toggle === "graphics" ? (
+                    <ToggleButton active onClick={() => setToggle("graphics")}>GRAPHICS</ToggleButton>
                 ) : (
-                    <ToggleButton onClick={() => setToggle("machine learning")}>MACHINE LEARNING</ToggleButton>
+                    <ToggleButton onClick={() => setToggle("graphics")}>GRAPHICS</ToggleButton>
                 )}
             </ToggleGroup>
             <CardContainer>
