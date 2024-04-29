@@ -222,7 +222,7 @@ export const Bio = {
         },
         {
           name: "Andre Reynolds",
-          img: "",
+          img: "https://github.com/amr3ynolds.png",
           linkedin: "",
           github: "",
         },
