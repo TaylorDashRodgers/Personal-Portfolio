@@ -198,8 +198,8 @@ export const Bio = {
         "SFML",
       ],
       category: "games",
-      github: "https://github.com/rishavchanda/Trackify",
-      webapp: "https://trackify.duckdns.org",
+      github: "https://github.com/TaylorDashRodgers",
+      webapp: "",
     },
     {
       id: 0,
@@ -211,8 +211,8 @@ export const Bio = {
         "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
       tags: ["Java", "Eclipse"],
       category: "games",
-      github: "https://github.com/rishavchanda/Podstream",
-      webapp: "https://podstream.netlify.app/",
+      github: "https://github.com/TaylorDashRodgers",
+      webapp: "",
       member: [
         {
           name: "Taylor Rodgers",
@@ -243,8 +243,8 @@ export const Bio = {
         "Ajax",
       ],
       category: "web app",
-      github: "https://github.com/rishavchanda/Project-Management-App",
-      webapp: "https://vexa-app.netlify.app/",
+      github: "https://github.com/TaylorDashRodgers",
+      webapp: "",
     },
     {
       id: 2,
@@ -256,8 +256,8 @@ export const Bio = {
         "https://github.com/rishavchanda/Brain-Tumor-Detection/raw/main/Readme_resource/Image2.png",
       tags: ["C++", "OpenGL"],
       category: "graphics",
-      github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
-      webapp: "https://brain-tumor.netlify.app/",
+      github: "https://github.com/TaylorDashRodgers",
+      webapp: "",
     },
   ];
   
