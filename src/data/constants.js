@@ -192,7 +192,7 @@ export const Bio = {
       description:
         "An arcade game like Space Invaders that is built in C++ using SFML. With collision detection the goal is to progress through levels by avoiding the boss in the middle that moves around and shoots bullets randomly. You move onto the next level after each time you survive and fully defeat the boss.",
       image:
-        "https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
+        "",
       tags: [
         "C++",
         "SFML",
@@ -208,7 +208,7 @@ export const Bio = {
       description:
         "A themed Clue board game built in Java. It has a unique Avengers board with rooms and players that can easily be changed.",
       image:
-        "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
+        "",
       tags: ["Java", "Eclipse"],
       category: "games",
       github: "https://github.com/TaylorDashRodgers",
@@ -235,7 +235,7 @@ export const Bio = {
       description:
         "Created an online Lego store that interacts with a Postgres database to learn how to use PHP, jQuery, Ajax, to create a replication of what an online store would look like on both ends.",
       image:
-        "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
+        "",
       tags: [
         "Postgres DB",
         "PHP",
@@ -253,7 +253,7 @@ export const Bio = {
       description:
         "Built up knowledge of GPU programming with OpenGL through many graphics projects. Created a 3D environment with characters and objects that have unique shading and different forms of lighting.",
       image:
-        "https://github.com/rishavchanda/Brain-Tumor-Detection/raw/main/Readme_resource/Image2.png",
+        "",
       tags: ["C++", "OpenGL"],
       category: "graphics",
       github: "https://github.com/TaylorDashRodgers",
