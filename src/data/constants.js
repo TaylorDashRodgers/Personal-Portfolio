@@ -253,7 +253,7 @@ export const Bio = {
       description:
         "Created a mock online Apple Store for a final project that interacts with a MongoDB database that stores all the products and orders.",
       image:
-        "https://github-production-user-asset-6210df.s3.amazonaws.com/74731025/330195338-109e9eb1-51d4-4e4c-a250-a515fcec21b4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240513%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240513T203947Z&X-Amz-Expires=300&X-Amz-Signature=b742ffff71c4283abb002687dfeb09e4fe80565ddf45a38dd36c491cbb24803b&X-Amz-SignedHeaders=host&actor_id=74731025&key_id=0&repo_id=797505536",
+        "https://github.com/TaylorDashRodgers/apple-store/assets/74731025/109e9eb1-51d4-4e4c-a250-a515fcec21b4",
       tags: [
         "MongoDB",
         "React",
@@ -298,7 +298,7 @@ export const Bio = {
       description:
         "This program generates a 3D environment with a ground plan across the XZ plane where my hero is drawn to and can be moved around and looked at with an ArcballCam.",
       image:
-        "https://github-production-user-asset-6210df.s3.amazonaws.com/74731025/330188366-81ab0aef-aa99-48aa-8e7c-36df346fb007.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240513%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240513T195952Z&X-Amz-Expires=300&X-Amz-Signature=11f389b188cc86f1920763b6bbfc5ddd793ed8d9b43b69fa2bef75a0d16a99d0&X-Amz-SignedHeaders=host&actor_id=74731025&key_id=0&repo_id=701500694",
+        "https://github.com/TaylorDashRodgers/a3/assets/74731025/81ab0aef-aa99-48aa-8e7c-36df346fb007",
       tags: ["C++", "OpenGL"],
       category: "graphics",
       github: "https://github.com/TaylorDashRodgers/a3",
