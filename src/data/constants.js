@@ -85,11 +85,6 @@ export const Bio = {
           image:
             "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
         },
-        {
-          name: "Microsoft Azure",
-          image:
-            "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-        },
       ],
     },
     {
@@ -113,17 +108,22 @@ export const Bio = {
         {
           name: "Jira",
           image:
-            "file:///Users/taylorrodgers/Downloads/jira-3.svg",
+            "https://avatars.slack-edge.com/2018-11-30/493753869479_4b703f4119efe3d7d0ff_512.png",
         },
         {
           name: "Confluence",
           image:
-            "file:///Users/taylorrodgers/Downloads/confluence-1.svg",
+            "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAkFBMVEX///8Ta+YAYOUAYuUAZeUAXuQAZOUAZ+UAXOQAW+QNaeZRiuutxfSKrvDR3vnN3Ph0n+7d6Pv1+f6kvvNLh+vj7Pvu9P3F1vdgkuzp8Pzy9/6zyfVrme26zvaHq/B/pu+UtPGowvRjlOw2e+hCgenB0/cqdeh7o+4ccOeTtPEAV+QweOg7fumduvJxnO1bjeuYGczRAAAO40lEQVR4nO1d2ZaqOhA1E8GI2uKAE4qKytW2/f+/uwmoDAICEuCsxX4467Rth+wMNSRVRafTokWLFi1atGjRokWLFi1aNBYjbTWtuw8yMbNVhEivARyXktoFGHDQ7kZS+1nRdxQwH8poGAEPyDlKaD4r9CtiDFD1t/ROLCB4gpH7ouzmM2OveJ2g8LoquWUMfGBkldt6Ziy6/kBDZ1xiywMVBMHQVcZO+IwtDvWCWnpZLR8YCIORv9Iazw4dR7qhoO2slJbHELwBY62UtvPghqK9YJj8lKDAliQ6hS7g7+j7tnMhrhcAw/3X/VhHF8cDlGzL6HdmmDFLye2H2vtOLBhqfMMcCjVL6n0W2DSpH5RMjC8admLX6AOwV5lyHJCUfnAFWXiwt2/bOzJ8/5VJIwX7xCl0wRVkMdk3TF6jD6BTJcpxkTaFD47glr9dHaSt0UfL6l6WvR/AJkHehUcb/5e3K70s7QKslGlBxeJN2ydAQZtcRsAmfRP6kK4cx1l7ks8I2CVooBhQ9SzVjkuV6BFgktUIWH2UMkEooGSHJohj9rH2xjuTEaDlIsgBJ9IOOSbpqiKGIzx8HPDbR/H83qwqaRpHeQcbCOWhbNIWqz7PT5C32h1IYZhkGn/oDSaTVZJ0OIJCbQI6l0FwkW8XBvuD4NqMITm6F5lAAQZlMOwrRRnyHlGIbCu0tBaaTfLuax9dGQyLrScfVCHw8HfTTNNcWfuTiorzA/RXAsFdVm2fBoYVJKDQHJo1BkSGML1+16dSQW0JBI3CckYCVBnWaW5tLxGKjIObItpeHiQQ7Px8K0lLBJFxLjVDzZEz+C6BYMf6QtuXDIakHLs1aI3CAsdAn6GVoe3LgRRrJuZSqD5IUYUdo6gLUD5QXwbBTq8x2p6dpBCcNsdg68o5TCzFqygFSFIQSuZTUtmgBzkEm+NWEGmniHkOgiWC7GQR7Ay+OFApD8qfNILcd/pVa+dI5SiKFwZzUrNtKsfgDmJ6JnU6GOo3MQJZsezj2vSGHI/iHbpF63GF0U81BAV2DqyeoyLFrU+EeaqaI5bjE6bgeKhUQdJTDQGKw151HKlTA0GOwb1bDUcKyontLIDRvgojANexRH2Oa1U2R3yokyDH9EfuPKJevfwEFmeIpSkPUqGiT8FsAyXNY7ciU+0zllLmkdIqjO2sWGxg2UY5OtSmJeKhW6BMY46RunO74rA6lWboIEdO0NPXGOxhGV4yJXLO7kvBwnK+lTqsEQmWaRj+YVh8tTJyqDPzMCP01R0Wi3ii8FRl8sg3WGo9gvIGPmHV/gfmz8dSu+Mce5JC+tNQAZoC/bg9qRB/XLAMQ/X+ryzPNyzM/gQQpCTRpBgS5ycu/PSfwtTs750uhEjBmD6AMUJQJZONWV9K83fQl7PFaDSdLV/TMzV21nk977mY/23G5qBhtmdGzAa7zfwgYp8JhISLVHCy95ux8a9OVQi6Yc2BChHmiuIlRfl/+ZrkfNFku6o65bVULLU5hokSRVDlPAmY7/5NlvpKqPhMio+zXJsVJNqViukW5TLTKIST3T8kZQZ3kt+f4FM52f0bwseYFHV8BcnEdJrGYFSYn0cS4nOjrVH9/PXtBcPqVWvsRB5BKVf7DNFNI3ekvi8vgB+rf83TkkbBzLokjrDXpBNgjn73c6/zgZLPGafVQZ/ICDxhzTmmmTqSLmM4x+pL7sRgKDEag0EgLwYxK1aSI9tr53iTn+WF6LhGI6ACgi5Hqy6CVlV5egiXVyctD8YVJiIi3K/eUc5XpeNrKORc8T1USkEuSSijTloOjOrIS6DqvDIPcvZlFn1hjt/VScuBa20B+9wor8Jg3dcZyc6gs5OtPG41JweVWkg0DsPS/cH8UGQVFxJYNiL3ianytmNyRchqQWURtBqToSdJN9ai6mOBJB0BNCQDkQPKqYD5obholZCzDwfNKd0iqYr5qTFrlCEpl45Wc9YoPssg+LnubHVQpfjDzakZAaiU9IukAt51gEhxE5szg4BdZRBsUgksKfZMaoXyqqFIINggVcgJyijLHvfKidoAJWj7JpVpA3hdPsEvxYyIR4QIiX9wCeeQUmpgfTGFTCF23xwsZrPZdLja9JTUqMUMoBMJBGfFdyF0bpFdM7Bs+M2ih1ISFYpeZifUTV+MD4UTh5kjg2DB+tZATa4vOu2DYilDSM7F96JIb5iSbj2aE7VA7heWdBg8PeX2DanzMURtekZ5LwiwvIRLK2dwJXWy6OXcpW6IxMi+Ra7C6dmLWNzyZNXSvTyCnVwxlozmGOscpW5knQO/sMla6gvm64mZsQyMlPrdYYzsTMof5nbgDDuLuIZVXI9qymfdiIu8k2Fwz2AFlE4nDvpf/Lvtgiims6brD2UnUFXVIwandLuyW/icaLFVU4QZU6qLjbqhlMHG39Q11Ps0UUHiKt8OyJVj4jSy70ZaHycpSDnHwIkwnISxht9fsceXnaDVFmvj6MfqsHJU1vH3vXFJN4ZpmE5ilCMs6YzB6EWsCyartG4qVjQq+kp85USkkGgJq78I9HNkpEt130Z/AQ+Sldhwvl4cgpIPluyBz7ZI8ZpXawxqH/uWiIRS6UsLIUpxva+RX+6fylFOgdjxvFd7pQxPOTJVyt1zQ2AxVS31/eoNxKKRuZEtWrRo0aJFC7nQB4bhesPL4WDQvCoCX8OwVQjhRdSuHF6gKv80PjOWA+N4NL4+1Np6jrFidUTCt6RYwgIw1o5K+NBDokyiAQa5sBPh0gxjKKKXmsNQcwKuLEXEKtySjkUGlr3tr4Vj3hSGi9/HaQSj1Dt6gYVzb0UoKno5ww1haLgbhyLo/E56toP4dOLCDDfY24EemsHQyzMgv6uHk6cffxApzPAHB69IG8FwKTYgBaFTFn3zFUNfAzaC4ZwzxHZpR52Coa9wmsBQrFGaFju9+plcT/b+Fjyo2Gmae5e92h9O9vp1rT3StFWPAuW24r/XBM8gQ/5bLXhsFvlZX60PDnXsbeCKwuRfEZrLONunQ+9Nic12a9th4DTpB9oZbSYnBq7zVz7tngKGkrW8hSGmjMtYRNb+Ay4IEf58CvmvGIX4EVA37npV99x3p1/MCEPtgtTgyeetG/yZP8itJEkxsV/dsSG6DMTBs9sHREIBwtO1W6VY1JzEl+coj2wivitU3uPWeInSbh9nV/cajbm6BMPXXlV5C52+mH1PuzwOpUOvgXTjCIMMVwjgYBXyceBn/Rd6yko8iZLnNE4o39RD4g6x+A0MhNRo3s2GUHDsFfG289SC1yvihhQI9ZUYa7TkEog/DxxsB4oD9tehL2cIVoRB0Jv3gOjbxRUutwt0oyoUYRu9zWEaw5MQBvA0nx/cWLBnoCxniEzMELbnd/f9S/B1aHlTmahlB35798kJdh9D3BXmBuPfdkRHkIgo7uOUWz+bPxfe3TW+sMQD0PLJEAAHOx5hEz8TWabGcDDn+3A35HCLsWZkuOa0yNYdaN0i/kWkeJm7Q6G3pUYH7N/+DEUX4LMIwWLshqKM+J9ix4tKGdm8TZUvhjsNPzaIHQxetyz4vOG9zxC/4nWniPm30Mn6MJmh6K4fLiPey/tYp4JhIMTqyl7pFlzAsLcIm18anC5OTcQUn/jEJIXi8FaCr94VWbIPImo4R26L/WCQIgzFYrT8X5zxM+JBMCR+XPCRt+aF62hi8KMXJQPCe+WrvSUfeL4BQfIN8pCPZSgod/syyNRwKKTg8QyiL8BQJMYF00KnkM/PkyELvI1Mx+zxRZvGJOnxkVFu4Z/5lIPkOLR+yMLsuMv88Tw1/FcL6HekAEMTRcS583yhKmcY6gJXdKqYJJ3LPfVNPp5YWGjyKeftOslz6Irq0Cf0GbjDGSoBu04X4rQ4Q26sh1cc19HeBxMa/g2fOpfDAMZc7S9JJO2LDzy9d67J+5Dzidxb873rWWSuPgwwRPyrxRly8Yv/03ys+HPQ6skwuMKegy6aelukI0F7FWhnzHfxQXQ6vBR9qCAaLccXNhmVz5D3AWAUgFBl4zSGGorpNX8WlzQBCM3qiBWSZBqrbxECXNR4S7p8hlF4IiON4VuK1yA2OFQ8FpB4xwIzFkl8f3lGpa9SgLphXKw0hquobBJwaz6okXa6rqROWKYHBmBYXvGN7n1SCsOb8vhZqNN4WZDEMNYpm/FFFxctIeqV4NizNdHXcBbOa90WYiiUQtC34N/0GHKDncbnpCUxFKlK7ytPaL4YL8kkSQlTfMzpPPrBvjjDAQwT4TaYx1AsLxi7U5IYCtWH3iIH5gkW6PVphEchEg9JUCHyZh+mYCGGSzVkIwnB8OgQNw9x7BvyEhn2uZyk0ZW3ErZQjJ8kDHKgHMLTuxBDusaABd4eeVZe6iMzQ6GaX3tDjJCvv/kUPhm6Jr6Vh+FCjctbEb7eKWbHuYfUlPh1mJfm/iKGYkG4GXh6fKyvoR+Hn5mh6MkrH8utPPE80OuJN888F5VYR/Dur5eRNU1n2Okjkb3pR4O5FpaoqUqV22tSdPNhpv7nHidiAubbzWa7vkJEPcdBFEhkcK8ZhrkVRZ+V54KLYfj8Ocyw43r7k82PZ02KeO3tcTQ1LICVwLaZisAqSg4/t91uvLkD4nnUKQw7wlkECM8tzVzdzidvka/FGCLU6/NmrL9fqD7liPnIMqCYwzsu8Obac6TdFFfxpy/fK/MceuXPKL7orxHD4gCAf6mvBbTHAGP3tkPhloiYXPiRoe4esDAqzoQUjB7acU+A9woN8SELJBItt2rgxQ2MwmdOgfl6SxzDXT9KXXhPQYYwkWGnR8SQqV571rM+Pe1uhcZXXqJvNg+m61F/DkmEoS/7tt3XXzD0tFI15L9Di/MIBE/ru7mjipxkCAm9+wGreh8QkalM0DogVi+KAoMMFd/A++FWc8gdW02oql4eIzboidagWwNxzA3GoIN9PpFHB5z9QyDZULmEGIbikBebK/GyqPHE9492E+XxKbKtyMH2Yng0TXM4jaim0VEba8PQhzpHJzP0pf+qoM7MWO2OCUdfC4M//zj0f/vxObMh/wtjEP6SPhU8jFFjX0XQokWLFi1atGjRokWLFi2qx/9Qg/qsgmwM2AAAAABJRU5ErkJggg==",
         },
         {
           name: "Postman",
           image:
-            "https://cloud.tenable.com/mssp/logos/:logo_uuid/logo.png",
+            "https://cdn.worldvectorlogo.com/logos/postman.svg",
+        },
+        {
+          name: "Microsoft Azure",
+          image:
+            "https://swimburger.net/media/ppnn3pcl/azure.png"
         },
       ],
     },
@@ -151,7 +151,7 @@ export const Bio = {
     },
     {
       id: 0,
-      img: "blank.png",
+      img: "https://avatars.githubusercontent.com/u/5224374?s=280&v=4%27",
       role: "ICPC Rocky Mountain Regional Programming Contest",
       company: "Colorado School of Mines",
       date: "Novemeber 2023",
@@ -166,7 +166,7 @@ export const Bio = {
   export const education = [
     {
       id: 0,
-      img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
+      img: "https://www.minesnewsroom.com/sites/default/files/2023-03/mines-logo-triangle-blue.jpg",
       school: "Colorado School of Mines",
       date: "Aug 2020 - May 2024",
       grade: "3.15 GPA",
@@ -175,7 +175,7 @@ export const Bio = {
     },
     {
       id: 1,
-      img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
+      img: "https://schoolassets.s3.amazonaws.com/logos/330/330.png",
       school: "Berthoud High School",
       date: "Aug 2016 - May 2020",
       grade: "High",
@@ -186,7 +186,7 @@ export const Bio = {
   
   export const projects = [
     {
-      id: 9,
+      id: 0,
       title: "CHIMPY",
       date: "Nov 2022",
       description:
@@ -202,7 +202,7 @@ export const Bio = {
       webapp: "",
     },
     {
-      id: 0,
+      id: 1,
       title: "Avengers Clue Game",
       date: "Mar 2022 - May 2022",
       description:
@@ -223,13 +223,13 @@ export const Bio = {
         {
           name: "Andre Reynolds",
           img: "https://github.com/amr3ynolds.png",
-          linkedin: "",
-          github: "",
+          linkedin: "https://www.linkedin.com/in/andre-reynolds/",
+          github: "https://github.com/amr3ynolds",
         },
       ],
     },
     {
-      id: 1,
+      id: 2,
       title: "Lego Store Website",
       date: "Oct 2023 - Nov 2023",
       description:
@@ -247,7 +247,39 @@ export const Bio = {
       webapp: "",
     },
     {
-      id: 2,
+      id: 3,
+      title: "Apple Store Website",
+      date: "May 2023",
+      description:
+        "Created a mock online Apple Store for a final project that interacts with a MongoDB database that stores all the products and orders.",
+      image:
+        "https://github-production-user-asset-6210df.s3.amazonaws.com/74731025/330195338-109e9eb1-51d4-4e4c-a250-a515fcec21b4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240513%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240513T203947Z&X-Amz-Expires=300&X-Amz-Signature=b742ffff71c4283abb002687dfeb09e4fe80565ddf45a38dd36c491cbb24803b&X-Amz-SignedHeaders=host&actor_id=74731025&key_id=0&repo_id=797505536",
+      tags: [
+        "MongoDB",
+        "React",
+        "Express",
+        "Bootstrap",
+      ],
+      category: "web app",
+      github: "https://github.com/TaylorDashRodgers/apple-store",
+      webapp: "",
+      member: [
+        {
+          name: "Taylor Rodgers",
+          img: "https://github.com/TaylorDashRodgers.png",
+          linkedin: "https://www.linkedin.com/in/taylor-dash-rodgers",
+          github: "https://github.com/TaylorDashRodgers",
+        },
+        {
+          name: "Caleb Curran-Velasco",
+          img: "https://github.com/CalebCurranVelasco.png",
+          linkedin: "https://www.linkedin.com/in/caleb-curran-velasco/",
+          github: "https://github.com/CalebCurranVelasco",
+        },
+      ],
+    },
+    {
+      id: 4,
       title: "Numerous Graphics Projects",
       date: "Aug 2023 - Dec 2023",
       description:
@@ -257,7 +289,20 @@ export const Bio = {
       tags: ["C++", "OpenGL"],
       category: "graphics",
       github: "https://github.com/TaylorDashRodgers",
-      webapp: "",
+      webapp: "file:///Users/taylorrodgers/CSCI441/www/Deku.html",
+    },
+    {
+      id: 5,
+      title: "Graphics Create Hero",
+      date: "Oct 2023",
+      description:
+        "This program generates a 3D environment with a ground plan across the XZ plane where my hero is drawn to and can be moved around and looked at with an ArcballCam.",
+      image:
+        "https://github-production-user-asset-6210df.s3.amazonaws.com/74731025/330188366-81ab0aef-aa99-48aa-8e7c-36df346fb007.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240513%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240513T195952Z&X-Amz-Expires=300&X-Amz-Signature=11f389b188cc86f1920763b6bbfc5ddd793ed8d9b43b69fa2bef75a0d16a99d0&X-Amz-SignedHeaders=host&actor_id=74731025&key_id=0&repo_id=701500694",
+      tags: ["C++", "OpenGL"],
+      category: "graphics",
+      github: "https://github.com/TaylorDashRodgers/a3",
+      webapp: "file:///Users/taylorrodgers/CSCI441/www/Deku.html",
     },
   ];
   
