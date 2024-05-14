@@ -235,7 +235,7 @@ export const Bio = {
       description:
         "Created an online Lego store that interacts with a Postgres database to learn how to use PHP, jQuery, Ajax, to create a replication of what an online store would look like on both ends.",
       image:
-        "",
+        "https://github.com/TaylorDashRodgers/lego-store/assets/74731025/dba42227-6f27-4f56-9322-850c669c0d48",
       tags: [
         "Postgres DB",
         "PHP",
@@ -243,7 +243,7 @@ export const Bio = {
         "Ajax",
       ],
       category: "web app",
-      github: "https://github.com/TaylorDashRodgers",
+      github: "https://github.com/TaylorDashRodgers/lego-store",
       webapp: "",
     },
     {
