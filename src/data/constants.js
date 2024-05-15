@@ -280,19 +280,6 @@ export const Bio = {
     },
     {
       id: 4,
-      title: "Numerous Graphics Projects",
-      date: "Aug 2023 - Dec 2023",
-      description:
-        "Built up knowledge of GPU programming with OpenGL through many graphics projects. Created a 3D environment with characters and objects that have unique shading and different forms of lighting.",
-      image:
-        "",
-      tags: ["C++", "OpenGL"],
-      category: "graphics",
-      github: "https://github.com/TaylorDashRodgers",
-      webapp: "file:///Users/taylorrodgers/CSCI441/www/Deku.html",
-    },
-    {
-      id: 5,
       title: "Graphics Create 2D Hero",
       date: "Sep 2023",
       description:
@@ -305,7 +292,7 @@ export const Bio = {
       webapp: "file:///Users/taylorrodgers/CSCI441/www/Deku.html",
     },
     {
-      id: 6,
+      id: 5,
       title: "Graphics Create 3D Hero",
       date: "Oct 2023",
       description:
@@ -315,6 +302,19 @@ export const Bio = {
       tags: ["C++", "OpenGL"],
       category: "graphics",
       github: "https://github.com/TaylorDashRodgers/a3",
+      webapp: "file:///Users/taylorrodgers/CSCI441/www/Deku.html",
+    },
+    {
+      id: 6,
+      title: "Graphics Create A Game",
+      date: "Dec 2023",
+      description:
+        "This program generates a game where the character is tracked by an arcball cam and the objective is to avoid the enemies coming at you and to walk on every tile to turn it green then you will grow and kill the enemies and win. If you get touched by the enemies too much you will shrink and lose. If you fall off the map you also lose. If the enemies collide they will turn into one big enemy and blue.",
+      image:
+        "https://github.com/TaylorDashRodgers/a5/assets/74731025/94426127-e103-4556-912c-a7959fe63046",
+      tags: ["C++", "OpenGL"],
+      category: "graphics",
+      github: "https://github.com/TaylorDashRodgers/a5",
       webapp: "file:///Users/taylorrodgers/CSCI441/www/Deku.html",
     },
   ];
