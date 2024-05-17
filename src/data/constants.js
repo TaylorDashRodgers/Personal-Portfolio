@@ -190,15 +190,15 @@ export const Bio = {
       title: "CHIMPY",
       date: "Nov 2022",
       description:
-        "An arcade game like Space Invaders that is built in C++ using SFML. With collision detection the goal is to progress through levels by avoiding the boss in the middle that moves around and shoots bullets randomly. You move onto the next level after each time you survive and fully defeat the boss.",
+        "An arcade game that was inspired by an in-game arcade game called CHIPPY in the survival game Rust. Chimpy is built in C++ using SFML. With collision detection the goal is to progress through levels by avoiding the boss in the middle that moves around and shoots bullets randomly. You move onto the next level after each time you survive and fully defeat the boss.",
       image:
-        "",
+        "https://github.com/TaylorDashRodgers/chimpy/assets/74731025/2171ecaf-1ee8-4fb2-be64-64ce730be1c1",
       tags: [
         "C++",
         "SFML",
       ],
       category: "games",
-      github: "https://github.com/TaylorDashRodgers",
+      github: "https://github.com/TaylorDashRodgers/chimpy",
       webapp: "",
     },
     {
