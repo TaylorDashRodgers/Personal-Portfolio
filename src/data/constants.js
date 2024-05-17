@@ -208,7 +208,7 @@ export const Bio = {
       description:
         "A themed Clue board game built in Java. It has a unique Avengers board with rooms and players that can easily be changed.",
       image:
-        "https://private-user-images.githubusercontent.com/74731025/331475829-c3453bbb-4131-4f07-b4ae-fd1e9e673963.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTU5MjY1MDMsIm5iZiI6MTcxNTkyNjIwMywicGF0aCI6Ii83NDczMTAyNS8zMzE0NzU4MjktYzM0NTNiYmItNDEzMS00ZjA3LWI0YWUtZmQxZTllNjczOTYzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTE3VDA2MTAwM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRmYmE4MDRiNDkyZjI2ZjIzYThhMDFkMjhmYjQ5MDgwNzU3YzMyMWI2ODY3Y2VhNzUxNGI0YTEwODlmOTgzYTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.DArJGkKCspaFNOhx6aG_4PyFOCcn3hgvXIzICZ4DnPg",
+        "https://github.com/TaylorDashRodgers/ClueGame/assets/74731025/c3453bbb-4131-4f07-b4ae-fd1e9e673963",
       tags: ["Java", "Eclipse"],
       category: "games",
       github: "https://github.com/TaylorDashRodgers/ClueGame",
