@@ -9,9 +9,9 @@ export const Bio = {
     github: "https://github.com/TaylorDashRodgers",
     resume: "https://drive.google.com/file/d/1XHmidgRfcvlWx_UiEoyEXG9MQLyJJij5/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/taylor-dash-rodgers",
-    twitter: "https://www.linkedin.com/in/taylor-dash-rodgers",
-    insta: "https://www.linkedin.com/in/taylor-dash-rodgers",
-    facebook: "https://www.linkedin.com/in/taylor-dash-rodgers",
+    twitter: "https://x.com/TaylorRodgers27",
+    // insta: "https://www.linkedin.com/in/taylor-dash-rodgers",
+    facebook: "https://www.facebook.com/profile.php?id=100010741081158",
   };
   
   export const skills = [
