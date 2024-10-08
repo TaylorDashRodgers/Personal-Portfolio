@@ -7,7 +7,7 @@ export const Bio = {
     description:
       "As a passionate Computer Science graduate from Colorado School of Mines, I am driven by a deep curiosity for cutting-edge technologies and a commitment to delivering high-quality software solutions. With a strong foundation in areas such as web programming, computer graphics, cybersecurity, and software engineering, I thrive in collaborative environments and excel at tackling complex challenges.",
     github: "https://github.com/TaylorDashRodgers",
-    resume: "https://drive.google.com/file/d/1XHmidgRfcvlWx_UiEoyEXG9MQLyJJij5/view?usp=sharing",
+    resume: "https://docs.google.com/document/d/14eOpthQuB7_jGNOBVDgqJta2xgbOjNksF092eO8AT_g/edit?usp=sharing",
     linkedin: "https://www.linkedin.com/in/taylor-dash-rodgers",
     twitter: "https://x.com/TaylorRodgers27",
     facebook: "https://www.facebook.com/profile.php?id=100010741081158",
@@ -169,7 +169,7 @@ export const Bio = {
       school: "Colorado School of Mines",
       date: "Aug 2020 - May 2024",
       grade: "",
-      desc: "I completed all 4 years and have obtained a Bachelor's degree in Computer Science at The Colorado School of Mines. I have taken courses in Data Structures, Algorithms, Database Management, Operating Systems, Computer Graphics, and Web Programming, among others.",
+      desc: "I completed all 4 years and have obtained a Bachelor's degree in Computer Science from Colorado School of Mines. I have taken courses in Data Structures, Algorithms, Database Management, Operating Systems, Computer Graphics, and Web Programming, among others.",
       degree: "Bachelor of Science, Computer Science",
     },
     {
@@ -179,7 +179,7 @@ export const Bio = {
       date: "Aug 2016 - May 2020",
       grade: "",
       desc: "I completed all 4 years of high school at Berthoud High School and was able to take Intro to Computer Science along with an Intro to Engineering class.",
-      degree: "ISC(XII), Science with Computer",
+      degree: "",
     },
   ];
   
