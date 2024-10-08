@@ -7,7 +7,7 @@ export const Bio = {
     description:
       "As a passionate Computer Science graduate from Colorado School of Mines, I am driven by a deep curiosity for cutting-edge technologies and a commitment to delivering high-quality software solutions. With a strong foundation in areas such as web programming, computer graphics, cybersecurity, and software engineering, I thrive in collaborative environments and excel at tackling complex challenges.",
     github: "https://github.com/TaylorDashRodgers",
-    resume: "https://docs.google.com/document/d/14eOpthQuB7_jGNOBVDgqJta2xgbOjNksF092eO8AT_g/edit?usp=sharing",
+    resume: "https://drive.google.com/file/d/1uWbNeG2sbJY4B1XEJn1nTkmjjDz163nm/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/taylor-dash-rodgers",
     twitter: "https://x.com/TaylorRodgers27",
     facebook: "https://www.facebook.com/profile.php?id=100010741081158",
