@@ -135,7 +135,7 @@ export const Bio = {
       role: "Full Stack Developer",
       company: "BuilderIQ, Golden, CO",
       date: "Sep 2024 - Present",
-      desc: "- Responsible for analyzing and processing data to support business objectives, including designing and maintaining SQL tables and views. - Implemented a Gross Margin engine to process estimates and closings, enhancing financial analysis capabilities. - Develop API endpoints to support the frontend portal, contributing to both backend functionality and frontend development. - Work closely with stakeholders to gather and understand requirements for the design and build of the Portal.",
+      desc: "- Responsible for analyzing and processing data to support business objectives, including designing and maintaining SQL tables and views. \n- Implemented a Gross Margin engine to process estimates and closings, enhancing financial analysis capabilities. \n- Develop API endpoints to support the frontend portal, contributing to both backend functionality and frontend development. \n- Work closely with stakeholders to gather and understand requirements for the design and build of the Portal.",
       skills: [
         ".NET Framework",
         "Microsoft Power BI",
