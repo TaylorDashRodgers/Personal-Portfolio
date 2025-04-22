@@ -131,8 +131,23 @@ export const Bio = {
   export const experiences = [
     {
       id: 0,
+      img: "",
+      role: "Full Stack Developer",
+      company: "BuilderIQ, Golden, CO",
+      date: "Sep 2024 - Present",
+      desc: "- Responsible for analyzing and processing data to support business objectives, including designing and maintaining SQL tables and views. - Implemented a Gross Margin engine to process estimates and closings, enhancing financial analysis capabilities. - Develop API endpoints to support the frontend portal, contributing to both backend functionality and frontend development. - Work closely with stakeholders to gather and understand requirements for the design and build of the Portal.",
+      skills: [
+        ".NET Framework",
+        "Microsoft Power BI",
+        "SQL Server Management Studio",
+        "Vue.js",
+        "Microsoft Azure",
+      ],
+    },
+    {
+      id: 0,
       img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
-      role: "Full-Stack Engineer Intern",
+      role: "Field Session",
       company: "ChatGM.ai, Honolulu, HI",
       date: "May 2023 - July 2023",
       desc: "Developed a personalized Fantasy Football Expert chatbot utilizing Python, LangChain, OpenAI API, and SerpAPI. Implemented a backend system to query a PostgresSQL database hosted on Azure, retrieving relevant data to answer users’ questions. Contributed to the frontend development, including creating a user signup sheet and integrating the chatbot interface. Participated in an agile Scrum development process, collaborating with a cross-functional team. Scraped and processed data from various online sources (ESPN, Yahoo) to populate the database with comprehensive NFL and player statistics. Created scripts to generate and manage mock fantasy league data for testing purposes. Utilized version control with GitHub and collaborated effectively within a team environment.",
